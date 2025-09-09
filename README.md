@@ -1,4 +1,4 @@
-````markdown
+
 # 🎲 Fluctuation–Dissipation Validation via Dice Simulation
 
 This project uses dice simulations to **numerically validate the Fluctuation–Dissipation Theorem (FDT)**.  
